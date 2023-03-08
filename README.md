@@ -1,2 +1,2 @@
 # learning
-includes stuff from course and testing stuff
+includes files from general learning projects and courses
